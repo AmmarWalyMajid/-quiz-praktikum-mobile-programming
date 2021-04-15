@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPLOGIN</string>
+    <string name="username_error">Check your Username</string>
+    <string name="password_error">Check your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
