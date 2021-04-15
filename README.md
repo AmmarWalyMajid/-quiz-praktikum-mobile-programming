@@ -1,1 +1,1 @@
-# -quiz-praktikum-mobile-programming
+# quiz-praktikum-mobile-programming
